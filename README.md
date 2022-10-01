@@ -1,2 +1,5 @@
-# ListaExerciciosPortugol
-  Arquivos referentes a Lista de Exercicios da Matéria de Programação e Algoritmo da Faculdade de Sistemas Para Internet da Fatec Baixada Santista Rubens Lara
+# Lista de Exercicios - Portugol
+
+## Programação e Algoritmo
+
+Arquivos referentes a Lista de Exercícios da Matéria de Programação e Algoritmo da Faculdade de Sistemas Para Internet da Fatec Baixada Santista Rubens Lara
