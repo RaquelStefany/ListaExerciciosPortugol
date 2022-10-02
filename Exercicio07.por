@@ -23,6 +23,7 @@ programa
 	
 			an = a1
 			soma = a1
+			
 			para(inteiro cont = 1; cont < num; cont++){
 				an += razao
 				soma += an
@@ -36,7 +37,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 364; 
+ * @POSICAO-CURSOR = 285; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
