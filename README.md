@@ -2,4 +2,4 @@
 
 ## Programação e Algoritmo
 
-Arquivos referentes a Lista de Exercícios da Matéria de Programação e Algoritmo da Faculdade de Sistemas Para Internet da Fatec Baixada Santista Rubens Lara
+Arquivos referentes a Lista de Exercícios da Matéria de Algoritmo e Lógica de Programação da Faculdade de Sistemas Para Internet da Fatec Baixada Santista Rubens Lara
