@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro n, impar = 1, qtd = 0
+		inteiro n, impar = -1, qtd = 0
 		
 		escreva("Insira um número: ")
 		leia(n)
@@ -20,7 +20,7 @@ programa
 					qtd++
 				}
 				enquanto(qtd < (n - 1))
-				escreva(impar+2 + "\n")
+				escreva(impar + 2 + "\n")
 			}
 		}
 		senao{
@@ -33,7 +33,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 396; 
+ * @POSICAO-CURSOR = 56; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

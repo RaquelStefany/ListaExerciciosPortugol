@@ -3,14 +3,15 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro num, razao, a1, an, soma
+		inteiro num
+		real razao, a1, an, soma
 
 		escreva("Insira o valor de A1: ")
 		leia(a1)
 
 		faca{
 			escreva("\nInsira o valor de N: ")
-			leia(num)			
+			leia(num)
 		}
 		enquanto(num < 0)
 
@@ -37,7 +38,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 285; 
+ * @POSICAO-CURSOR = 73; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
